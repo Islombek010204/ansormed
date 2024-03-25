@@ -133,10 +133,10 @@ p {
 }
 .site-nav__link {
 	text-decoration: none;
+	color: #222;
 	font-weight: 700;
 	font-size: 14px;
 	letter-spacing: 2px;
-	color: #222;
 	line-height: 1.5;
 	transition: all 0.4s ease;
 }
@@ -313,10 +313,10 @@ p {
 .site-logo-link__title:active {
 	color: #fff;
 }
-.site-nav__link {
+.site-footer__link {
 	color: #fff;
 }
-.site-nav__link:active {
+.site-footer__link:active {
 	color: #fff;
 }
 /* site-footer end */
